@@ -17,7 +17,7 @@ List of packages :
 			Often we need multiple locks to do multiple things
 			How to use lock object in some circumstances to improve and writing much efficient code.
 
-7. Demo7 : How to use thread pool and get rid of writing the same line of code again to create thread.
+7. Demo7 : How to use thread pooool and get rid of writing the same line of code again to create thread.
 
 
 
